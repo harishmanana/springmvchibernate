@@ -1,0 +1,11 @@
+com\spring\service\UserService.class
+com\spring\service\UserServiceImpl.class
+com\spring\controller\HomeController.class
+com\spring\validator\RegisterFormValidator.class
+com\spring\config\WebAppInitializer.class
+com\spring\config\WebConfig.class
+com\spring\dao\AbstractDao.class
+com\spring\dao\UserDaoImpl.class
+com\spring\dao\UserDao.class
+com\spring\config\HibernateConfiguration.class
+com\spring\model\User.class
